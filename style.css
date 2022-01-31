@@ -5,15 +5,12 @@ body {
   font-size: 16px;
   line-height: 32px;
   color: #222222;
-  /*background-color: #f2f4f6;
+  background-color: #f2f4f6;
   background-image: url("img/hero-bg.jpg");
-  background-repeat: no-repeat;*/
+  background-repeat: no-repeat;
   background-position: top center;
 }
 
-.bodyoleg{
- background: #000 url(oleg.jpg);
-}
 .container {
   max-width: 928px;
   margin: 0 auto;
